@@ -1,51 +1,66 @@
 # Ex01 Portfolio
-## Date:
+## Date: 02/11/2026
 
 ## AIM
-To create a Portfolio using HTML and CSS.
+To create a Portfolio using HTML.
 
 ## ALGORITHM
-### STEP 1
-Create an HTML file (index.html)
 
-### STEP 2
-Create a CSS file (style.css)
+**STEP 1**
 
-### STEP 3
-Include a navigation bar with links to different sections.
+Create an HTML file (index.html).
 
-### STEP 4
-Add structured sections for introduction, about, projects, and contact details.
+**STEP 2**
 
-### STEP 5
-Define global styles for fonts, colors, and layout.
+Define the basic HTML document structure using HTML tags.
 
-### STEP 6
-Style the header, navigation bar, and sections.
+**STEP 3**
 
-### STEP 7
-Use Flexbox or CSS Grid for layout design.
+Add the portfolio title and metadata inside the head section.
 
-### STEP 8
-Add hover effects and transitions for interactivity.
+**STEP 4**
 
-### STEP 9
-Add Images and Media.
+Create a heading to display your name and professional introduction.
 
-### STEP 10
-Use optimized images for a professional look.
+**STEP 5**
 
-### STEP 11
-Open the HTML file in a browser to check layout and functionality.
+Add an About Me section with personal and educational details.
 
-### STEP 12
-Fix styling issues and refine content placement.
+**STEP 6**
 
-### STEP 13
-Deploy the Portfolio.
+Create a Skills section to display technical skills.
 
-### STEP 14
-Upload to GitHub Pages for free hosting.
+**STEP 7**
+
+Add a Projects section to showcase completed projects.
+
+**STEP 8**
+
+Include educational details and certifications.
+
+**STEP 9**
+
+Add contact information such as email and GitHub profile links.
+
+**STEP 10**
+
+Use HTML headings, paragraphs, lists, images, and hyperlinks to organize the content.
+
+**STEP 11**
+
+Add navigation links to move between different sections of the portfolio.
+
+**STEP 12**
+
+Open the HTML file in a web browser and verify the content and navigation links.
+
+**STEP 13**
+
+Make necessary corrections and ensure all sections are displayed properly.
+
+**STEP 14**
+
+Upload the HTML file and related images to GitHub Pages for free hosting.
 
 ## PROGRAM
 
